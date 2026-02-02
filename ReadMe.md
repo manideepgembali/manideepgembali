@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3816392d-6eaf-4a7c-ad96-2d2e2bb88d39" width="1200" />
+</p>
+
 I’m Manideep, a Full-Stack JavaScript Engineer who builds modern, high-performance web applications using React, Next.js, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit, Node.js, Express, and MongoDB. I focus on writing clean, scalable, and maintainable code while creating beautiful, intuitive user experiences that feel fast and production-ready. I enjoy turning complex product ideas into simple, reliable, and well-engineered solutions.<br><br>
 🔭 I’m currently working on<br>
 Full-stack projects like job portals, multi-step form systems, admin dashboards, and authentication-based platforms, applying real-world engineering practices such as component-driven UI, API-first design, optimized state management, and performance tuning.<br><br>
