@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m Manideep, a Full-Stack JavaScript Engineer who builds modern, high-performance web applications using React, Next.js, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit, Node.js, Express, and MongoDB. I focus on writing clean, scalable, and maintainable code while creating beautiful, intuitive user experiences that feel fast and production-ready. I enjoy turning complex product ideas into simple, reliable, and well-engineered solutions.<br><br>Right now, I’m actively working on full-stack projects like job portals, multi-step form systems, admin dashboards, and authentication-based platforms, applying real-world engineering practices such as component-driven UI, API-first design, optimized state management, and performance tuning. I’m constantly learning and improving my skills in Next.js, scalable React architecture, and modern frontend-backend integration to match the standards used by top tech teams.<br><br>I’m always open to collaborating on React, Next.js, and MERN-stack projects, contributing to meaningful products, and learning from other passionate developers. My goal is to keep building impactful, real-world software while growing into a developer who can design, scale, and ship applications that people truly love 🚀
+I’m Manideep, a Full-Stack JavaScript Engineer who builds modern, high-performance web applications using React, Next.js, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit, Node.js, Express, and MongoDB. I focus on writing clean, scalable, and maintainable code while creating beautiful, intuitive user experiences that feel fast and production-ready. I enjoy turning complex product ideas into simple, reliable, and well-engineered solutions.<br><br>
+🔭 I’m currently working on<br>
+Full-stack projects like job portals, multi-step form systems, admin dashboards, and authentication-based platforms, applying real-world engineering practices such as component-driven UI, API-first design, optimized state management, and performance tuning.<br><br>
+🌱 I’m constantly learning and improving my skills in <br>
+TypeScript,Next.js, scalable React architecture, and modern frontend-backend integration to match the standards used by top tech teams.<br><br>
+👐 I’m looking for help with<br>
+Best practices for scalable backend architecture and clean code patterns in large applications.<br><br>
+🤝 I’m looking to collaborate on<br>React, Next.js, and MERN-stack projects, contributing to meaningful products, and learning from other passionate developers. My goal is to keep building impactful, real-world software while growing into a developer who can design, scale, and ship applications that people truly love 🚀
 
 
 ## 🌐 Socials:
