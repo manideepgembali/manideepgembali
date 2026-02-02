@@ -1,8 +1,13 @@
 # 💫 About Me:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3816392d-6eaf-4a7c-ad96-2d2e2bb88d39" width="1200" />
+<p align="center" style="display: inline-block;border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+  <img
+    src="https://github.com/user-attachments/assets/34351e32-9bb0-46db-86a2-683f88868b09"
+    width="1200"
+    alt="Image"
+  />
 </p>
+
 
 I’m Manideep, a Full-Stack JavaScript Engineer who builds modern, high-performance web applications using React, Next.js, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit, Node.js, Express, and MongoDB. I focus on writing clean, scalable, and maintainable code while creating beautiful, intuitive user experiences that feel fast and production-ready. I enjoy turning complex product ideas into simple, reliable, and well-engineered solutions.<br><br>
 🔭 I’m currently working on<br>
