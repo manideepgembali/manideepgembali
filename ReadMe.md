@@ -18,6 +18,8 @@ TypeScript,Next.js, scalable React architecture, and modern frontend-backend int
 Best practices for scalable backend architecture and clean code patterns in large applications.<br><br>
 🤝 I’m looking to collaborate on<br>React, Next.js, and MERN-stack projects, contributing to meaningful products, and learning from other passionate developers. My goal is to keep building impactful, real-world software while growing into a developer who can design, scale, and ship applications that people truly love 🚀
 
+My portfolio:https://manideepgembali-portfolio.vercel.app/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manideep-gembali/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gembalimanideep@gmail.com) 
